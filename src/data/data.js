@@ -28,7 +28,7 @@ export const stock = [
         nombre: 'Kokedama Sansi',
         precio: 4000,
         img: 'https://d22fxaf9t8d39k.cloudfront.net/0b5e6b3c572a5073e9d27c6a80932519d0753fb32f46bde1c5f9d7ce8de763dc61267.jpeg',
-        descripcion: 'PTécnica japonesa que aprovecha elementos naturales como sustrato y musgo y exige poco mantenimiento.',
+        descripcion: 'Técnica japonesa que aprovecha elementos naturales como sustrato y musgo y exige poco mantenimiento.',
         stock: 20,
         category: 'Kokedamas'
     },
