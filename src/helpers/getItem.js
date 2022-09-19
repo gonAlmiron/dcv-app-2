@@ -1,10 +1,10 @@
-import { stock } from "../data/data"
+import { terrario } from "../data/terrario"
 
 
 export const getItem = () => {
     return new Promise( (resolve, reject) => {
         setTimeout(() => {
-            resolve(stock)
+            resolve(terrario)
         }, 2000)
     })
 }
